@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="jovie"
+VERSION=4.10.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE text-to-speech engine"
+DESCRIPTION="Part of the KDE accessibility suite"
